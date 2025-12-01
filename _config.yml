@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "HaoweiFu / AcademicPage"
+title                    : "HaoweiFu/AcademicPage"
 title_separator          : "-"
 name                     : &name "Haowei Fu"
 description              : &description "Haowei Fu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "RageFu2004/RageFu2004.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Haowei Fu"
+  pronouns         :  "He/Him"
+  bio              : "Senior Undergrad @ Vanderbilt"
+  location         : "Nashville, TN"
+  employer         : "Vanderbilt University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "haowei.fu@vanderbilt.edu" 
 
   # Academic websites
   academia         : # URL
