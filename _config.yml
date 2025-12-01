@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "HaoweiFu/AcademicPage"
+title                    : "Haowei Fu"
 title_separator          : "-"
 name                     : &name "Haowei Fu"
 description              : &description "Haowei Fu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/RageFu2004"
+  github           : "RageFu2004"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
