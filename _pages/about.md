@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am Haowei Fu, currently a senior undergraduate student at Vanderbilt University, advised by Prof. Tyler Derr in NDS Lab at Vanderbilt. Before, I was grateful to work with Prof.Meiyi Ma in AI-CPS Lab at Vanderbilt and Dr. Chayan Chatterjee at Data Science Institute Vanderbilt
+Hi! I am Haowei Fu, currently a senior undergraduate student at Vanderbilt University, advised by Prof. Tyler Derr in NDS Lab at Vanderbilt. Before, I was grateful to work with Prof.Meiyi Ma in AI-CPS Lab at Vanderbilt and Dr. Chayan Chatterjee at Data Science Institute Vanderbilt.
 
 Research Interest
 ======
