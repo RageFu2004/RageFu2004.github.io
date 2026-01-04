@@ -17,7 +17,11 @@ Research Interest
 News
 ======
 [01/2026] Paper: Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks got accepted to EACL 2026! 
+
 [10/2025] Paper: Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks is on ArXiv: https://arxiv.org/abs/2512.03100
+
 [05/2025] Paper: Smartseg: A Non-Parametric Approach for Wearable Camera Video Segmentation is on SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5344625
+
 [02/2025] Paper: Towards a Foundational AI model for Gravitational Wave Data Analysis got accepted to SMT 2025!
+
 [01/2025] Paper: Pre-trained Audio Transformer as a Foundational AI Tool for Gravitational Waves is on ArXiv: https://arxiv.org/abs/2412.20789
