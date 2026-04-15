@@ -16,7 +16,13 @@ Research Interest
 
 News
 ======
-[01/2026] Paper: Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks got accepted to EACL 2026! 
+[04/2026] Paper: Risk-Controlled Event-Driven Cascading Updates for Knowledge Graph Consistency Restoration is accepted by ACL 2026!
+
+[04/2026] Paper: Smartseg: A Non-Parametric Approach for Wearable Camera Video Segmentation is accepted by Pervasive Mobile Computing!
+
+[03/2026] Presented paper at EACL 2026@Rabat, Morocco
+
+[01/2026] Paper: Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks is accepted ny EACL 2026! See you in Morocco!
 
 [10/2025] Paper: Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks is on ArXiv: https://arxiv.org/abs/2512.03100
 
