@@ -10,9 +10,9 @@ Hi! I am Haowei Fu, currently a senior undergraduate student at Vanderbilt Unive
 
 Research Interest
 ======
-1. Multimodal Learning: I am interested in how to learn representation in multimodal environment, especially when data is sparse and noise-dominated. I am interested in how we transfer learning in rich-modality model to low-resource modalities.
-2. Trustworthy AI: I am interested in privacy attack and defense of LLMs. Currently I work on Membership-Inference Attack in text-based LLMs. I am interested in privacy in Multimodal LLMs.
-3. Retrieval-Augmented Generation: I am interested in RAG on structured knowledge such as graph and their application in personalization in text generation and recommender system.
+1. Trustworthy AI: I am interested in privacy attack and defense of LLMs. Currently I work on Membership-Inference Attack in text-based LLMs. I am interested in privacy in Multimodal LLMs.
+2. Retrieval-Augmented Generation: I am interested in RAG on structured knowledge and their application in personalization in text generation and recommender system.
+3. Agentic framework: I wish to work on agentic environment and its application in industry and areas such as knowledge discovery.
 
 News
 ======
